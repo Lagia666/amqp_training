@@ -1,4 +1,4 @@
-package fr.lernejo.chat.fr.lernejo.chat;
+package fr.lernejo.chat;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.rabbit.connection.ConnectionFactory;
